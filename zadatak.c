@@ -59,3 +59,4 @@ int brojredaka()
     fclose(fp);
     return brojac;
 }# Strukture-Podataka
+# Strukture-Podataka
