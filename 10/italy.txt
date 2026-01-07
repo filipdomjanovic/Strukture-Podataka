@@ -1,0 +1,5 @@
+Rome 2870000
+Milan 1350000
+Naples 960000
+Turin 870000
+Bologna 390000
